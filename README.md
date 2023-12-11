@@ -7,8 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Untuk dapat menggunakan api ini lakukan langkah berikut
+1. clone ke repo lokal kalian
+2. lalu buat file .env di root folder ini, dan copykan semua isi dari .env.example
+3. update composer kalian dengan perintah : composer update
+4. lakukan migrasi dengan perintah : php artisan migrate
+
 ## Penggunaan Api Recom Movie
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+1. login
+    url-aplikasi-ini/login
+2. logout
+    url-aplikasi-ini/logout
+3. get movie list
+    url-aplikasi-ini/movie
+3. get movie detail
+    url-aplikasi-ini/detail/{id-movie}
+4. get movie poster / image
+    url-aplikasi-ini/image/{id-movie}
+5. search movie
+    url-aplikasi-ini/movie/{judul-movie}
+7. get genre
+    url-aplikasi-ini/genre
+    
+
+
 
 
