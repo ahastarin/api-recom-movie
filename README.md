@@ -15,20 +15,20 @@ Untuk dapat menggunakan api ini lakukan langkah berikut
 
 ## Penggunaan Api Recom Movie
 
-1. login
-    url-aplikasi-ini/login
-2. logout
-    url-aplikasi-ini/logout
-3. get movie list
-    url-aplikasi-ini/movie
-3. get movie detail
-    url-aplikasi-ini/detail/{id-movie}
-4. get movie poster / image
-    url-aplikasi-ini/image/{id-movie}
-5. search movie
-    url-aplikasi-ini/movie/{judul-movie}
-7. get genre
-    url-aplikasi-ini/genre
+1. login <br>
+    - url-aplikasi-ini/login
+2. logout <br>
+    - url-aplikasi-ini/logout
+3. get movie list <br>
+    - url-aplikasi-ini/movie
+3. get movie detail <br>
+    - url-aplikasi-ini/detail/{id-movie}
+4. get movie poster / image <br>
+    - url-aplikasi-ini/image/{id-movie}
+5. search movie <br>
+    - url-aplikasi-ini/movie/{judul-movie}
+7. get genre <br>
+    - url-aplikasi-ini/genre
     
 
 
